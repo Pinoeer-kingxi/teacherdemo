@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # demo-2021
 
 ## Project setup
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# teacherdemo
+>>>>>>> upstream/main
