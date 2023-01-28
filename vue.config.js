@@ -22,7 +22,7 @@ module.exports = defineConfig({
     config
       .plugin('html')
       .tap(args => {
-        args[0].title = '中国延安木刻版画数字化体验馆'
+        args[0].title = '优秀教师成长平台'
         return args
       })
   }
