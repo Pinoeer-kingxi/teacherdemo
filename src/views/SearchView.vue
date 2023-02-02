@@ -1,4 +1,5 @@
 <template>
+  <div id="building">
     <div id="SearchView">
       <el-descriptions title="青年教师助力培训指南">
         <el-descriptions-item >
@@ -40,10 +41,18 @@
         </el-descriptions-item>
       </el-descriptions>
     </div>
+  </div>
 </template>
 
 <style scoped>
+#building{
+  background:url("@/assets/background4.jpg");
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-size: 100% 100%;
 
+}
 </style>
 
 <script>

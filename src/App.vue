@@ -18,25 +18,28 @@
         <el-aside width="200px">
           <el-menu
             default-active="1"
-            :default-openeds="['4']"
+            :default-openeds="['5']"
             @select="handleMenuSelect"
             background-color="#545c64"
             text-color="#fff"
             active-text-color="#ffd04b">
             <el-menu-item index="1">
               <i class="el-icon-s-home"></i>
-              <span slot="title">学习专区</span>
+              <span slot="title">HOME</span>
             </el-menu-item>
             <el-menu-item index="2">
+              <i class="el-icon-s-order"></i>
+              <span slot="title">学习专区</span>
+            </el-menu-item>
+            <el-menu-item index="3">
               <i class="el-icon-s-opportunity"></i>
               <span slot="title">创新比赛探讨</span>
             </el-menu-item>
-            <el-menu-item index="3">
+            <el-menu-item index="4">
               <i class="el-icon-s-marketing"></i>
               <span slot="title">青年教师培训</span>
             </el-menu-item>
-
-            <el-menu-item index="4">
+            <el-menu-item index="5">
               <i class="el-icon-user"></i>
               <span slot="title">教师身心健康</span>
             </el-menu-item>
@@ -146,15 +149,20 @@ export default {
           break
         case '2':
           router.push({
-            name: 'DiscussionView'
+            name: 'NewsView'
           })
           break
         case '3':
           router.push({
-            name: 'SearchView'
+            name: 'DiscussionView'
           })
           break
         case '4':
+          router.push({
+            name: 'SearchView'
+          })
+          break
+        case '5':
           router.push({
             name: 'PAMH'
           })
