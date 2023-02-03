@@ -22,7 +22,7 @@
 #building{
   background:url("@/assets/background5.jpg");
   width: 100%;
-  height: 100%;
+  height: 80%;
   position: fixed;
   background-size: 100% 100%;
 

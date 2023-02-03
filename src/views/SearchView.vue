@@ -48,9 +48,9 @@
 #building{
   background:url("@/assets/background4.jpg");
   width: 100%;
-  height: 100%;
+  height: 80%;
   position: fixed;
-  background-size: 100% 100%;
+  background-size: 80% 100%;
 
 }
 </style>
