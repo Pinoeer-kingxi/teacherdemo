@@ -1,44 +1,40 @@
 <template>
   <div id="HomeView">
     <template>
-      <div id="building">
+      <div class="building">
+        <img id="poster" src="@/assets/海报4.png" alt="海报">
+      </div>
+      <div class="building">
+        <br>
+        <br>
+      </div>
+      <div class="building">
         <div class="box" id="left">
           <a class="title" href="http://news.snnu.edu.cn/" target="_blank">模范先锋榜样力量</a>
           <ul>
             <li><a href="https://mp.weixin.qq.com/s/O44meAof-iItEbsqFyxbTA" class="left" target="_blank">红烛闪耀丨我在本溪当老师</a>
-              <div class="clear"></div>
             </li>
             <li><a href="https://mp.weixin.qq.com/s/My5tLk6t4mfJMw0Em4n4TA" class="left" target="_blank">红烛闪耀 | 我在陵水当老师</a>
-              <div class="clear"></div>
             </li>
             <li><a href="https://mp.weixin.qq.com/s/tihBqaMV--P69Kafamf9LA" class="left" target="_blank">西部红烛丨我在阳泉当老师</a>
-              <div class="clear"></div>
             </li>
             <li><a href="https://mp.weixin.qq.com/s/pYf9P8gG8PI5wMjMpvUoZg" class="left" target="_blank">看见“一面墙”  推开“一扇窗”</a>
-              <div class="clear"></div>
             </li>
             <li><a href="http://www.snnu.edu.cn/info/1012/26590.htm" class="left" target="_blank">导师栗洪武教授的育人之道</a>
-              <div class="clear"></div>
             </li>
             <li><a href="http://www.snnu.edu.cn/info/1012/26589.htm" class="left" target="_blank">让黔北大地飞出更多“金凤凰”</a>
-              <div class="clear"></div>
             </li>
             <li><a href="https://mp.weixin.qq.com/s/UfMiwlM5kB6QP_DNsL-zVQ" class="left" target="_blank">杨钰莹：青春立志，追梦未来</a>
-              <div class="clear"></div>
             </li>
             <li><a href="http://www.snnu.edu.cn/info/1012/25806.htm" class="left" target="_blank">王淑兰：难忘那团结奋进艰苦创业的八年岁月</a>
-              <div class="clear"></div>
             </li>
             <li><a href="https://mp.weixin.qq.com/s/14hJVxH8u-3IaI-7yUpUuw" class="left" target="_blank">师大国旗护卫队：苦有所为 苦有所乐 为...</a>
-              <div class="clear"></div>
             </li>
             <li><a href="http://www.snnu.edu.cn/info/1012/25757.htm" class="left" target="_blank">中国科学院院士房喻：潜心四十载 以学术...</a>
-              <div class="clear"></div>
             </li>
             <li><a href="https://mp.weixin.qq.com/s/aZJavwN-EsoNMOglBJagEQ" class="left" target="_blank">西部红烛 | 一场跨越600公里的教育之旅</a>
-              <div class="clear"></div>
             </li>
-            <li><a href="https://mp.weixin.qq.com/s/_7TJJDlJjBEbuh8qhbcGuA" class="left" target="_blank">西部红烛｜我在格尔木当老师</a>
+            <!--li><a href="https://mp.weixin.qq.com/s/_7TJJDlJjBEbuh8qhbcGuA" class="left" target="_blank">西部红烛｜我在格尔木当老师</a>
               <div class="clear"></div>
             </li>
             <li><a href="http://www.snnu.edu.cn/info/1012/24575.htm" class="left" target="_blank">我和我的老师 丨 山高水长 红烛闪耀 师...</a>
@@ -49,7 +45,7 @@
             </li>
             <li><a href="http://www.snnu.edu.cn/info/1012/24325.htm" class="left" target="_blank">“传薪者”杨清源：奉献一生光和热 让真...</a>
               <div class="clear"></div>
-            </li>
+            </li>-->
           </ul>
         </div>
         <div class="box" id="middle">
@@ -82,6 +78,10 @@
           </ul>
         </div>
       </div>
+      <div class="building">
+        <br>
+        <br>
+      </div>
     </template>
   </div>
 </template>
@@ -97,12 +97,23 @@ export default {
   padding: 15px;
 }
 
-#building{
+
+
+#poster{
+
+  width: 70%;
+  hight:70%;
+}
+
+.building{
   background:url("@/assets/background2.jpg");
   width: 100%;
   height: 80%;
-  position: fixed;
+ /* position: fixed;*/
   background-size: 100% 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .box{
@@ -120,5 +131,6 @@ export default {
   font-family: 宋体 ;
   text-decoration: none;
 }
+
 
 </style>
