@@ -5,7 +5,7 @@
         <el-container direction="horizontal">
           <el-image
             style="width: 60px; height: 60px"
-            :src="require('@/assets/logo.png')"
+            :src="require('@/assets/烛薪logo3(1).jpg')"
             fit="contain">
             <div slot="error" class="image-slot">
               <i class="el-icon-picture-outline"></i>
@@ -72,7 +72,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color:#2c3e50;
 }
 
 nav {
