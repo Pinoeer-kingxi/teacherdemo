@@ -14,7 +14,6 @@
         </div>
       </el-descriptions-item>
     </el-descriptions>
-
   </div>
 </template>
 
