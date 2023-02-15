@@ -17,8 +17,6 @@
         </div>
       </el-descriptions-item>
     </el-descriptions>
-
-
       <div class="building">
         <br>
         <br>
@@ -27,7 +25,7 @@
         <div class="box" id="left">
           <a class="title" href="null" target="_blank">教师身心健康养护</a>
           <ul>
-            <li><a href=" https://www.bilibili.com/video/BV1Qf4y1H7kq/" class="left" target="_blank">【教师保护嗓子三步走，预防教师职业病。】</a>
+            <li><a href=" https://www.bilibili.com/video/BV1Qf4y1H7kq/" class="left" target="_blank">【教师保护嗓子三步走，预防教师职业病】</a>
             </li>
             <br>
             <li><a href=" https://www.bilibili.com/video/BV1Ag411v7Lb/" class="left" target="_blank">【实用经验｜如何才能真发火，但是不真生气？（95后教师的发火艺术）】</a>
@@ -63,7 +61,7 @@
 .box{
   float:left;
   width:25em;
-  font-size:20pt;
+  font-size:15pt;
   color: #545c64;
   font-family:仿宋;
   text-decoration: none;
@@ -71,9 +69,9 @@
 
 .title{
   float:left;
-  font-size: 18pt;
+  font-size: 12pt;
   color: #222222;
-  font-family: 宋体 ;
+  font-family: 黑体 ;
   text-decoration: none;
 }
 </style>
