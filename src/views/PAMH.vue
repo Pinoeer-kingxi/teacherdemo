@@ -33,7 +33,6 @@
             <br>
             <li><a href=" https://www.bilibili.com/video/BV1dV4y1576U/" class="left" target="_blank">【做老师，真的不用这么累…】</a>
             </li>
-
           </ul>
         </div>
       </div>
@@ -60,7 +59,7 @@
 
 .box{
   float:left;
-  width:25em;
+  width:40em;
   font-size:15pt;
   color: #545c64;
   font-family:仿宋;
