@@ -3,7 +3,8 @@
     <div id="SearchView">
       <el-descriptions title="青年教师助力培训指南">
         <el-descriptions-item >
-          <div>
+          <div> <el-button :plain="true" @click="open">注意保护眼睛，合理安排时间</el-button>
+            <el-divider></el-divider>
             <span>一、目标任务
 
 对任教三年以上、有发展潜力的乡村中小学青年教师开展不少于10天的师德养成与学科育人能力培训，助力乡村青年教师实现从合格到胜任的转变。
@@ -37,6 +38,7 @@
 （四）信息技术与学科融合
 
 重点从信息技术与学科融合的内涵、信息技术融合学科教学的路径、信息技术与学科融合的技术三个模块设计课程主题。主要包括信息技术与学科融合促进学习兴趣、信息技术融合于学科提高教学效率、运用信息技术培养学生实践能力、提升教师和学生信息素养等。优化青年教师的教学方式和教学效率。</span>
+            <el-divider></el-divider>
           </div>
         </el-descriptions-item>
       </el-descriptions>
@@ -57,6 +59,24 @@
 
 <script>
 export default {
-  name: 'SearchView'
+  name: 'SearchView',
+  methods: {
+    open() {
+      this.$message('请别忘了让眼睛放松');
+    }
+  }
 }
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -63,6 +63,7 @@
     </nav>
     <router-view/>
    -->
+
 </template>
 
 <style>
@@ -173,4 +174,7 @@ export default {
     }
   }
 }
+
+
+
 </script>
