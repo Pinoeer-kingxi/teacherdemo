@@ -4,10 +4,12 @@
     <template>
     <el-descriptions title="青年教师助力培训指南">
       <el-descriptions-item >
-        <div><el-button :plain="true" @click="open">注意保护眼睛，合理安排时间</el-button>
+        <div>
+          <el-button :plain="true" @click="open">注意保护眼睛，合理安排时间</el-button>
           <el-divider></el-divider>
             <span>1、换位思考认同法——正确认知压力，灵活调整自己的心态
-例如，当你遇到认为不公平的生活事件或不协调的人际关系以及不愉快的情感体验时能换位思考。</span>
+例如，当你遇到认为不公平的生活事件或不协调的人际关系以及不愉快的情感体验时能换位思考。
+            </span>
           <el-divider></el-divider>
           <span>
             2、推移时间遗忘法——有时时间是解决问题的最好方法
@@ -24,6 +26,7 @@
       <div class="building">
         <div class="box" id="left">
           <a class="title" href="null" target="_blank">教师身心健康养护</a>
+          <br>
           <ul>
             <li><a href=" https://www.bilibili.com/video/BV1Qf4y1H7kq/" class="left" target="_blank">【教师保护嗓子三步走，预防教师职业病】</a>
             </li>
@@ -72,6 +75,15 @@
   color: #222222;
   font-family: 黑体 ;
   text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.box ul {
+  padding-left: 0;
+}
+
+.box ul li {
+  text-align: left;
 }
 </style>
 
