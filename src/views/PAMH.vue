@@ -25,7 +25,7 @@
           <div>
             <br>
             <ul>
-              <li><a href=" https://www.bilibili.com/video/BV1Qf4y1H7kq/" class="left" target="_blank">【教师保护嗓子三步走，预防教师职业病】</a>
+              <li><a href="https://v.qq.com/x/page/p3345jokxmw.html" class="left" target="_blank">【心理健康知识宣传】</a>
               </li>
               <br>
               <li><a href=" https://www.bilibili.com/video/BV1Ag411v7Lb/" class="left" target="_blank">【实用经验｜如何才能真发火，但是不真生气？（95后教师的发火艺术）】</a>
