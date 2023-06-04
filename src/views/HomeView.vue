@@ -12,7 +12,31 @@
         <div class="box" id="left">
           <a class="title" href="http://news.snnu.edu.cn/" target="_blank">模范先锋榜样力量</a>
           <ul>
-            <li><a href="https://mp.weixin.qq.com/s/O44meAof-iItEbsqFyxbTA" class="left" target="_blank">红烛闪耀丨我在本溪当老师</a>
+            <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzI5MzMyMg==&mid=2650041585&idx=1&sn=ac452d7f7b896eebc26392c89e07c6a3&chksm=bedcf09489ab7982912cc9e38e2de6dfcb5b67420a782f9a4e168f039f5ef4d0df3fcda76500&token=1850619207&lang=zh_CN#rd" class="left" target="_blank">西部红烛｜我在洛南当老师</a>
+            </li>
+            <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzI5MzMyMg==&mid=2650040654&idx=1&sn=2a0c6558f535dc0d0469121cdaec2dca&chksm=bedcf52b89ab7c3def348595d59179efcfd80088a86b831a1bd4dcc00ee70ed2f033b75dde9d&token=691733513&lang=zh_CN#rd" class="left" target="_blank">西部红烛 | 我在银川当老师</a>
+            </li>
+            <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzI5MzMyMg==&mid=2650040308&idx=1&sn=8baaf2d426e8b7da1e985af848b4b736&chksm=bedcfb9189ab728796a6a19c160248e6096871ff842395fe2a5d20d1d361ee87670b9c6fa751&token=1261513283&lang=zh_CN#rd" class="left" target="_blank">西部红烛丨 我在阿勒泰当老师</a>
+            </li>
+            <li><a href="https://www.snnu.edu.cn/info/1012/32093.htm" class="left" target="_blank">当“00后”初为人师</a>
+            </li>
+            <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzI5MzMyMg==&mid=2650039417&idx=1&sn=551a59d02846ed93f90373096170a402&chksm=bedcf81c89ab710a7bc96ef9c90954a0efd920ae9b854e245996fe6ecb8b45431796caea8ec0&token=2059161&lang=zh_CN#rd" class="left" target="_blank">西部红烛 | 我在黔东南州当老师</a>
+            </li>
+            <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzI5MzMyMg==&mid=2650038816&idx=1&sn=b50ff99d758633dc50c846d7acd0297b&chksm=bedcfe4589ab7753b896878180dfc60467b154baa3143bb595bc03b4eac2129baa4be9c84f42&token=1063944502&lang=zh_CN#rd" class="left" target="_blank">跨越1700余公里！一封感谢信背后的山海情！</a>
+            </li>
+            <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzI5MzMyMg==&mid=2650039032&idx=1&sn=914d0e6fe6c4a6b3c3f704a9208b6a07&chksm=bedcfe9d89ab778bbd9d30a51fd4d689fe781d94627c9ac051a1c05373f1064bc5a9815a22a9#rd" class="left" target="_blank">西部红烛 | 我在林芝当老师</a>
+            </li>
+            <li><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzI5MzMyMg==&mid=2650037189&idx=1&sn=fe9ebb72354754f5295fb79abd4d8a42&chksm=bedcc7a089ab4eb6b7b84f42deced6715487f8a45d02cd1d267a95574401745f9224aaa56904&token=1349491994&lang=zh_CN#rd" class="left" target="_blank">西部红烛丨我在永川当老师</a>
+            </li>
+            <li><a href="https://www.snnu.edu.cn/info/1012/31244.htm" class="left" target="_blank">西部红烛 | 当好实习生的“领头羊”</a>
+            </li>
+            <li><a href="https://www.snnu.edu.cn/info/1012/31053.htm" class="left" target="_blank">红烛丹心，于三尺讲台放飞理想</a>
+            </li>
+            <li><a href="https://mp.weixin.qq.com/s/ZPqKNOEz-u0PYlYZ1guB2g" class="left" target="_blank">西部红烛 | 我在包头当老师</a>
+            </li>
+            <li><a href="https://www.snnu.edu.cn/info/1012/31052.htm" class="left" target="_blank">西部红烛 | 点点烛光，砥砺“黔”行</a>
+            </li>
+            <!--li><a href="https://mp.weixin.qq.com/s/O44meAof-iItEbsqFyxbTA" class="left" target="_blank">红烛闪耀丨我在本溪当老师</a>
             </li>
             <li><a href="https://mp.weixin.qq.com/s/My5tLk6t4mfJMw0Em4n4TA" class="left" target="_blank">红烛闪耀 | 我在陵水当老师</a>
             </li>
@@ -34,7 +58,7 @@
             </li>
             <li><a href="https://mp.weixin.qq.com/s/aZJavwN-EsoNMOglBJagEQ" class="left" target="_blank">西部红烛 | 一场跨越600公里的教育之旅</a>
             </li>
-            <!--li><a href="https://mp.weixin.qq.com/s/_7TJJDlJjBEbuh8qhbcGuA" class="left" target="_blank">西部红烛｜我在格尔木当老师</a>
+            <li><a href="https://mp.weixin.qq.com/s/_7TJJDlJjBEbuh8qhbcGuA" class="left" target="_blank">西部红烛｜我在格尔木当老师</a>
               <div class="clear"></div>
             </li>
             <li><a href="http://www.snnu.edu.cn/info/1012/24575.htm" class="left" target="_blank">我和我的老师 丨 山高水长 红烛闪耀 师...</a>
@@ -51,16 +75,15 @@
         <div class="box" id="middle">
           <a class="title" href="http://edu.people.com.cn/" target="_blank">政策热点交流</a>
           <ul>
-            <li><a href='/n1/2023/0202/c1006-32616429.html' target="_blank">高校对校外人员开放了？专家：应逐步适度…</a></li>
-            <li><a href='/n1/2023/0201/c1006-32615722.html' target="_blank">2023春季高校毕业生大型招聘会福州线…</a></li>
-            <li><a href='/n1/2023/0201/c1006-32615659.html' target="_blank">想去三、四线城市就业大学生占比呈上升趋势</a></li>
-            <li><a href='/n1/2023/0201/c1006-32615627.html' target="_blank">9所高校共同成立卓越大学智库联盟</a></li>
-            <li><a href='/n1/2023/0201/c1006-32615625.html' target="_blank">加强管理，确保校级科研机构良性运转</a></li>
-            <li><a href='/n1/2023/0202/c1006-32616355.html' target="_blank">做好准备迎开学</a></li>
-            <li><a href='/n1/2023/0201/c1006-32615726.html' target="_blank">杭州拟调整中考分配生制度 学校不再对学…</a></li>
-            <li><a href='/n1/2023/0201/c1006-32615590.html' target="_blank">精心准备迎开学</a></li>
-            <li><a href='/n1/2023/0131/c1006-32614907.html' target="_blank">异地办学按下“暂停键”，高等教育应如何…</a></li>
-            <li><a href='/n1/2023/0131/c1006-32614900.html' target="_blank">素质教育如何突破“两难纠结”</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27207.htm" target="_blank">《人民日报》报道我校坚守教师教育主责主业  为西...</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27205.htm" target="_blank">习近平在文化传承发展座谈会上强调 担负起新的文化...</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27199.htm" target="_blank">顾秀莲来校调研关心下一代工作</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27197.htm" target="_blank">我校李玉虎教授荣获全国创新争先奖</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27169.htm" target="_blank">陕西省政协副主席李兴旺一行来校调研民族团结进步...</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27161.htm" target="_blank">我校召开校级领导班子主题教育读书班（党委理论学...</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27158.htm" target="_blank">陕西省第二届高校师范生教育教学能力大赛在我校举办</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27139.htm" target="_blank">我校召开教育部师范类专业第三级认证考查意见反馈会</a></li>
+            <li><a href="http://news.snnu.edu.cn/info/1012/27139.htm" target="_blank">教育部直属高校基本建设管理调研组来校调研</a></li>
           </ul>
         </div>
         <div class="box" id="right">

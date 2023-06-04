@@ -82,7 +82,7 @@ nav {
 
 nav a {
   font-weight: bold;
-  color: #222222;
+  color: #2c3e50;
 }
 
 body {
