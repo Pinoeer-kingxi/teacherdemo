@@ -24,8 +24,6 @@
         <el-descriptions-item >
           <div>
             <br>
-            <br>
-            <br>
             <ul>
               <li><a href=" https://www.bilibili.com/video/BV1Qf4y1H7kq/" class="left" target="_blank">【教师保护嗓子三步走，预防教师职业病】</a>
               </li>
