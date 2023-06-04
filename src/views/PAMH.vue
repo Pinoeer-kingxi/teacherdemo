@@ -4,10 +4,12 @@
     <template>
     <el-descriptions title="青年教师助力培训指南">
       <el-descriptions-item >
-        <div><el-button :plain="true" @click="open">注意保护眼睛，合理安排时间</el-button>
+        <div>
+          <el-button :plain="true" @click="open">注意保护眼睛，合理安排时间</el-button>
           <el-divider></el-divider>
             <span>1、换位思考认同法——正确认知压力，灵活调整自己的心态
-例如，当你遇到认为不公平的生活事件或不协调的人际关系以及不愉快的情感体验时能换位思考。</span>
+例如，当你遇到认为不公平的生活事件或不协调的人际关系以及不愉快的情感体验时能换位思考。
+            </span>
           <el-divider></el-divider>
           <span>
             2、推移时间遗忘法——有时时间是解决问题的最好方法
@@ -17,29 +19,24 @@
         </div>
       </el-descriptions-item>
     </el-descriptions>
-      <div class="building">
         <br>
-        <br>
-      </div>
-      <div class="building">
-        <div class="box" id="left">
-          <a class="title" href="null" target="_blank">教师身心健康养护</a>
-          <ul>
-            <li><a href=" https://www.bilibili.com/video/BV1Qf4y1H7kq/" class="left" target="_blank">【教师保护嗓子三步走，预防教师职业病】</a>
-            </li>
+      <el-descriptions title="心理健康专题培训">
+        <el-descriptions-item >
+          <div>
             <br>
-            <li><a href=" https://www.bilibili.com/video/BV1Ag411v7Lb/" class="left" target="_blank">【实用经验｜如何才能真发火，但是不真生气？（95后教师的发火艺术）】</a>
-            </li>
-            <br>
-            <li><a href=" https://www.bilibili.com/video/BV1dV4y1576U/" class="left" target="_blank">【做老师，真的不用这么累…】</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="building">
-        <br>
-        <br>
-      </div>
+            <ul>
+              <li><a href=" https://www.bilibili.com/video/BV1Qf4y1H7kq/" class="left" target="_blank">【教师保护嗓子三步走，预防教师职业病】</a>
+              </li>
+              <br>
+              <li><a href=" https://www.bilibili.com/video/BV1Ag411v7Lb/" class="left" target="_blank">【实用经验｜如何才能真发火，但是不真生气？（95后教师的发火艺术）】</a>
+              </li>
+              <br>
+              <li><a href=" https://www.bilibili.com/video/BV1dV4y1576U/" class="left" target="_blank">【做老师，真的不用这么累…】</a>
+              </li>
+            </ul>
+          </div>
+        </el-descriptions-item>
+      </el-descriptions>
     </template>
   </div>
 </div>
@@ -57,22 +54,6 @@
   justify-content: center;
 }
 
-.box{
-  float:left;
-  width:40em;
-  font-size:15pt;
-  color: #545c64;
-  font-family:仿宋;
-  text-decoration: none;
-}
-
-.title{
-  float:left;
-  font-size: 12pt;
-  color: #222222;
-  font-family: 黑体 ;
-  text-decoration: none;
-}
 </style>
 
 <script>
