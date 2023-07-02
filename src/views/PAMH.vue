@@ -1,8 +1,7 @@
 <template>
   <div id="building">
-  <div id="PAMH">
-    <template>
-    <el-descriptions title="青年教师助力培训指南">
+    <div id="PAMH">
+      <el-descriptions title="心理健康专题培训">
       <el-descriptions-item >
         <div>
           <el-button :plain="true" @click="open">注意保护眼睛，合理安排时间</el-button>
@@ -21,9 +20,8 @@
     </el-descriptions>
         <br>
       <el-descriptions title="心理健康专题培训">
-        <el-descriptions-item >
+        <el-descriptions-item class="no-colon">
           <div>
-            <br>
             <ul>
               <li><a href="https://v.qq.com/x/page/p3345jokxmw.html" class="left" target="_blank">【心理健康知识宣传】</a>
               </li>
@@ -37,14 +35,13 @@
           </div>
         </el-descriptions-item>
       </el-descriptions>
-    </template>
   </div>
 </div>
 </template>
 
 <style scoped>
-#building{
-  background:url("@/assets/background5.jpg");
+#building {
+  background: url("@/assets/background5.jpg");
   width: 100%;
   height: 80%;
   position: fixed;
@@ -54,7 +51,25 @@
   justify-content: center;
 }
 
+.no-colon::before {
+  content: none;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+  text-align: left;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+a.left {
+  display: block;
+}
 </style>
+
 
 <script>
 export default {

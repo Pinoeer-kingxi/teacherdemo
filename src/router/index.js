@@ -6,6 +6,7 @@ import NewsView from '@/views/NewsView'
 import DiscussionView from '@/views/DiscussionView'
 import SearchView from '@/views/SearchView'
 import AboutView from '@/views/AboutView'
+import MessageArea from '@/views/MessageArea'
 import PAMH from "@/views/PAMH";
 Vue.use(VueRouter)
 
@@ -39,6 +40,11 @@ const routes = [
     path: '/PAMH',
     name: 'PAMH',
     component: PAMH
+  },
+  {
+    path: '/message',
+    name: 'MessageArea',
+    component: MessageArea
   }
 ]
 

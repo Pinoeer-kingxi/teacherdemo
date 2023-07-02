@@ -4,9 +4,9 @@
       <el-header>
         <el-container direction="horizontal">
           <el-image
-            style="width: 60px; height: 60px"
-            :src="require('@/assets/烛薪logo3(1).jpg')"
-            fit="contain">
+              style="width: 60px; height: 60px"
+              :src="require('@/assets/烛薪logo3(1).jpg')"
+              fit="contain">
             <div slot="error" class="image-slot">
               <i class="el-icon-picture-outline"></i>
             </div>
@@ -17,12 +17,12 @@
       <el-container style="height: 94vh" direction="horizontal">
         <el-aside width="200px">
           <el-menu
-            default-active="1"
-            :default-openeds="['5']"
-            @select="handleMenuSelect"
-            background-color="#545c64"
-            text-color="#fff"
-            active-text-color="#ffd04b">
+              default-active="1"
+              :default-openeds="['5']"
+              @select="handleMenuSelect"
+              background-color="#545c64"
+              text-color="#fff"
+              active-text-color="#ffd04b">
             <el-menu-item index="1">
               <i class="el-icon-s-home"></i>
               <span slot="title">HOME</span>
@@ -42,6 +42,10 @@
             <el-menu-item index="5">
               <i class="el-icon-user"></i>
               <span slot="title">教师身心健康</span>
+            </el-menu-item>
+            <el-menu-item index="6">
+              <i class="el-icon-message"></i>
+              <span slot="title">烛薪互助社区</span>
             </el-menu-item>
           </el-menu>
         </el-aside>
@@ -166,6 +170,11 @@ export default {
         case '5':
           router.push({
             name: 'PAMH'
+          })
+          break
+        case '6':
+          router.push({
+            name: 'MessageArea'
           })
           break
         default:
